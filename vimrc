@@ -15,6 +15,7 @@ set nohlsearch
 set shortmess+=I
 set splitbelow
 set splitright
+set ignorecase
 set smartcase
 set encoding=utf-8
 inoremap jk <ESC>
